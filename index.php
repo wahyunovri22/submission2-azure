@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Analyze Sample</title>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 </head>
 <body>
  
